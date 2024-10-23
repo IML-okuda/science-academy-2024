@@ -1,5 +1,5 @@
-# science-academy-2023
-小学生向けサイエンスアカデミーのリポジトリです。
+# science-academy-2024
+小学校高学年〜中学生向けサイエンスアカデミーのリポジトリです。
 
 [**スライド資料はこちらからご覧になれます**](https://www.canva.com/design/DAFpFABVYUI/g-sD7lcGcHsHeeUqz-W67w/view?utm_content=DA[…]mpaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
